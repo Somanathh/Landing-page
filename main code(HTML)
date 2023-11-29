@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Pure CSS Landing Page Design</title>
+		<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="index.css">
+	</head>
+	<body>
+		<div class="open">
+			<div class="layer"></div>
+			<div class="layer"></div>
+		</div>
+		<section>
+			<div class="header">
+				<h2 class="logo">OUT OF THE BOX</h2>
+				<ul>
+					<li>
+						<a href="#" class="active">Home</a>
+					</li>
+					<li>
+						<a href="#">About</a>
+					</li>
+					<li>
+						<a href="#">Services</a>
+					</li>
+					<li>
+						<a href="#">Our Work</a>
+					</li>
+					<li>
+						<a href="#">Portfolio</a>
+					</li>
+					<li>
+						<a href="#">Contact</a>
+					</li>
+				</ul>
+			</div>
+			<div class="bannerText">
+				<h2>Think Creative</h2><br>
+				<h3>And Make Innovative Design</h3>
+				<p>Creativity is the driving force behind innovation, shaping the way we approach design and pushing the boundaries of what is possible. To think creatively is to embrace a mindset that transcends conventional norms, encouraging novel perspectives and imaginative solutions. It involves breaking free from the constraints of routine thinking and exploring uncharted territories, where ideas flourish and innovation thrives. In the realm of design, a creative approach fosters the development of unique and compelling solutions that not only address current challenges but also anticipate future needs. Innovation in design is the result of daring to question the status quo, envisioning possibilities beyond the obvious, and seamlessly blending aesthetics with functionality. It is a dynamic process that requires openness to experimentation, a willingness to learn from failure, and the ability to transform imaginative concepts into tangible, groundbreaking designs. Embracing a creative mindset in design not only leads to aesthetically pleasing outcomes but also cultivates a culture of continuous improvement and progress.</p>
+				<a href="#">Read More</a>
+			</div>
+			<img src="C:\Users\Somu\Downloads\bulb.jpg" class="bulb">
+			<ul class="sci">
+				<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+				<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+			</ul>
+			<div class="element1"></div>
+			<div class="element2"></div>
+		</section>
+	</body>
+</html>
